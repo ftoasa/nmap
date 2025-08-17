@@ -1,5 +1,5 @@
 # PRACTICA DE LA CLASE 1
-![Logo de Nmap](https://nmap.org/images/sitelogo-nmap.png)
+![Logo de Nmap](https://nmap.org/images/sitelogo-nmap-software-llc-168.90.png)
 
 *Figura 1. Logo oficial de Nmap.*
 ## Importancia de la herramienta nmap
