@@ -29,6 +29,15 @@ Gracias a su flexibilidad, Nmap puede integrarse con herramientas como Zenmap (i
 
 ## Justificación del uso de Nmap.
 
+La elección de Nmap como herramienta de estudio en este informe académico responde a varias razones fundamentadas:
+1.	**Relevancia en la industria:** Nmap es considerado un estándar en la evaluación de seguridad de redes, lo que lo convierte en un referente confiable para fines académicos y profesionales (Conti & Raymond, 2017)
+2.	**Amplia documentación y soporte:** Su extensa base de conocimiento, manuales oficiales y casos de uso documentados permiten un análisis riguroso y verificable (Lyon, 2009).
+3.	**Accesibilidad:** Al ser una herramienta gratuita y de código abierto, es fácilmente replicable en entornos de laboratorio académico sin barreras de licenciamiento (Zheng et al., 2019).
+4.	**Valor pedagógico:** Nmap ofrece desde funciones básicas hasta avanzadas, lo que facilita el aprendizaje progresivo de técnicas de descubrimiento y análisis de vulnerabilidades (Martínez et al., 2020).
+
+## Conclusión
+
+Nmap no solo es una herramienta de exploración, sino un componente estratégico en la ciberseguridad moderna. Su uso responsable y ético permite a profesionales anticipar riesgos, reforzar defensas y garantizar la integridad de la infraestructura tecnológica.
 
 
 ## Bibliografía
