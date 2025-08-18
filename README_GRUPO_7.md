@@ -18,7 +18,14 @@ Nmap permite obtener información detallada de los dispositivos conectados a una
 
 ## Uso de Nmap
 
+El uso básico de Nmap consiste en ejecutar escaneos sobre direcciones IP o rangos, su versatilidad permite que sea usada tanto en auditorías ofensivas (pentesting) como en labores defensivas de gestión de seguridad, se detallan los diferentes usos aplicados:
 
+1. **Escaneo de puertos (TCP/UDP):** Identifica posibles puntos de entrada para atacantes [NIST, 2007].
+2. **Detección de sistema operativo (OS fingerprinting):** infiere el SO mediante respuestas a paquetes.
+3. **Escaneo de servicios (Service version detection):** identifica versiones específicas de software.
+4. **Scripting Engine (NSE):** utiliza scripts para detectar vulnerabilidades conocidas, realizar brute force o recolectar información avanzada (Martínez et al., 2020).
+Gracias a su flexibilidad, Nmap puede integrarse con herramientas como Zenmap (interfaz gráfica), sistemas de gestión de eventos (SIEM) y entornos de pruebas de penetración como Kali Linux.
+5. **Uso académico y profesional:** Es herramienta obligatoria en certificaciones como CEH, OSCP y cursos universitarios [EC-Council, 2022].
 
 ## Justificación del uso de Nmap.
 
@@ -34,8 +41,6 @@ Zheng, Y., Wang, H., & Wu, C. (2019). “Application of Nmap in Network Security
 
 Martínez, J., Rodríguez, A., & Pérez, L. (2020). “Automated Vulnerability Detection Using Nmap Scripting Engine.” International Journal of Computer Applications, 975–8887.
 
-EC-Council. *Certified Ethical Hacker v12 Official Curriculum*, 2022.  
-
-IEEE. “Tools for Network Security Testing”, *IEEE Xplore*, 2018.  
+EC-Council. *Certified Ethical Hacker v12 Official Curriculum*, 2022.   
 
 Scarfone, K., & Mell, P. *Guide to Security Metrics*. NIST, 2007.  
